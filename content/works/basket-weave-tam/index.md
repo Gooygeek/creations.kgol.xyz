@@ -14,6 +14,8 @@ galleryitems:
   [
     "img/basket_weave_tam_1.jpg",
     "img/basket_weave_tam_2.jpg",
+    "img/basket_weave_tam_3.jpg",
+    "img/basket_weave_tam_4.jpg",
   ]
 summary: A tam with the appearance of being made of woven strands.
 # storeurl: https://www.ravelry.com/patterns/library/braided-tam---beret
