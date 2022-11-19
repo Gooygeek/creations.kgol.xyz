@@ -1,0 +1,34 @@
+{
+	"name": "Hugo (custom)",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+			"VARIANT": "hugo",
+			"VERSION": "latest",
+			"NODE_VERSION": "14"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"html.format.templating": true,
+				"workbench.colorTheme": "Monokai"
+			},
+			"extensions": [
+				"davidanson.vscode-markdownlint",
+				"yzhang.markdown-all-in-one",
+				"vincaslt.highlight-matching-tag",
+				"leodevbro.blockman",
+				"ecmel.vscode-html-css"
+			]
+		}
+	},
+	"forwardPorts": [
+		1313
+	],
+	"postCreateCommand": "make init",
+	"remoteUser": "node",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {}
+	}
+}
