@@ -1,3 +1,7 @@
+.PHONY: init
+init:
+	mkdir -p themes
+	git clone https://github.com/Gooygeek/hugo-creations themes/hugo-creations
 
 .PHONY: dev
 dev:
