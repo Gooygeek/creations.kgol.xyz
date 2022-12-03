@@ -7,7 +7,7 @@ tags:
     "hat",
     "crochet",
   ]
-spotlight: true
+spotlight: false
 heroImage: img/braided_tam_1.jpg
 heroImageBackgroundColor: "#a6a09d"
 galleryitems:

@@ -7,7 +7,7 @@ tags:
     "hat",
     "crochet",
   ]
-spotlight: true
+spotlight: false
 heroImage: img/bavarian_tam_1.jpg
 heroImageBackgroundColor: "#0E3E66"
 galleryitems:
