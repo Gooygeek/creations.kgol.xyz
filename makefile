@@ -7,6 +7,12 @@ init:
 dev:
 	hugo server --buildDrafts --buildFuture
 
+.PHONY: dev+search
+dev+search:
+	rm -r public
+	hugo --buildDrafts --buildFuture
+	npx pagefind --source public --serve
+
 .PHONY: build
 build:
 	hugo --minify
