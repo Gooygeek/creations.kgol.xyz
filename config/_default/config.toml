@@ -25,3 +25,8 @@ theme = "hugo-creations"
     pre = "shop-solid"
     url = "https://www.ravelry.com/patterns/sources/kieran-goldsworthys-ravelry-store"
     weight = 4
+  [[menu.main]]
+    name = "Search"
+    pre = "search"
+    url = "/search"
+    weight = 5
