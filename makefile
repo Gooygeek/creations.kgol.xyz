@@ -16,6 +16,7 @@ dev+search:
 .PHONY: build
 build:
 	hugo --minify
+	npx pagefind --source public
 
 # Upload to GCP
 .PHONY: publish
