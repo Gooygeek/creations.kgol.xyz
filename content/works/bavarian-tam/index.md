@@ -23,7 +23,7 @@ summary: A tam with a grid of squares across the top.
 # storeurl: https://www.ravelry.com/patterns/library/braided-tam---beret
 ---
 
-A tam / beret with a grid of the 'bavaian stitch' across the top.
+A tam / beret with a grid of squares / diamonds ('bavaian stitch') across the top.
 
 The bavarian stitch can be done in 2 main ways: in the round or row-by-row (which works for cylinders).
 In both cases, it generates a fairly ridged grid of squares and the final output would be a square or cylinder of squares.
