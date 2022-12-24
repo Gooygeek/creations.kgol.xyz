@@ -38,7 +38,7 @@ This meant getting to 36 stiches in as few rounds as possible.
 The work around is to start braiding when I could do 3 of them and introduce the other 3 when the number of stitches became sufficient.
 
 Another issue was extreme curling.
-This is because the braids a shorter than regular stiches (likely the result of front-post stitches being shorter and curl in to the braid).
+This is because the braids are shorter than regular stiches (likely the result of front-post stitches being shorter and curl in to the braid).
 Adding extra increases in every other round combated this sufficiently and the curling is fully resolved after the decreases, which are effectively forcing it to curl in the opposite direction.
 
 Different yarns can show off the braids better than others as a cleaner / less fuzzy yarn which have better stitch definition.

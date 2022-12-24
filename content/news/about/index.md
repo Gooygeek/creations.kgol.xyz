@@ -17,8 +17,8 @@ When projecting hyperbolic surfaces into our real world it presents as ruffled o
 
 Enough mathematics though, you came here for yarncraft.
 Anyway, I knew that it was possible to knit or crochet such a surface and so I watched a couple of instructional videos on YouTube.
-The first few pieces used scraps of yarn from around the house or that my Mum had left over from her knitting days, and look like coral (hyperbolic surfaces do look similar).
-After that I did a small ambiguri of the corona virus.
+The first few pieces used scraps of yarn from around the house or that my Mum had left over from her knitting days, and looked like coral (hyperbolic surfaces do look similar).
+After that I did a small amigurumi of the corona virus.
 
 At this point I was hooked (get it) and bought a bunch more yarn; making various hats, shawls, and animals for myself and others.
 
@@ -38,7 +38,6 @@ When I was asked to make a [Tam for my Grandma](/works/braided-tam) I was initia
 That is when I began breathing new life into my hobby by also creaating my own patterns, coming up with and testing my own designs.
 
 Now that I was creating my own designs and some of them I could not find similar patterns elsewhere, I decided to sell them.
-
-Now I had a designer label (literally) and store on [Ravelry.com](https://www.ravelry.com/patterns/sources/kieran-goldsworthys-ravelry-store), I wanted to create a site where I could showcase my works. Somewhere I could present photos to people when talking about my hobbies, write about my works, etc.
+I had a designer label (literally) and store on [Ravelry.com](https://www.ravelry.com/patterns/sources/kieran-goldsworthys-ravelry-store), I wanted to create a site where I could showcase my works. Somewhere I could present photos to people when talking about my hobbies, write about my works, etc.
 
 This site was born.
