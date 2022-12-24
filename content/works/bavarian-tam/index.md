@@ -20,7 +20,7 @@ galleryitems:
     "img/circle_approximation.gif",
   ]
 summary: A tam with a grid of squares across the top.
-# storeurl: https://www.ravelry.com/patterns/library/braided-tam---beret
+storeurl: https://www.ravelry.com/patterns/library/bavarian-tam
 ---
 
 A tam / beret with a grid of squares / diamonds ('bavaian stitch') across the top.
