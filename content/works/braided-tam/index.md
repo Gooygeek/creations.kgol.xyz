@@ -23,6 +23,7 @@ galleryitems:
   ]
 summary: A tam with 6 braids radiating from the center and a pom pom at the top.
 storeurl: https://www.ravelry.com/patterns/library/braided-tam---beret
+saletype: Pattern
 ---
 
 The initial design for this Tam 'o Shanter came after my Grandmother commissioned one using wool that matched a cardigan she had knitted. (See the photo of the pink version).
