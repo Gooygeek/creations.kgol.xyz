@@ -29,3 +29,7 @@ publish: build
 publish-wsl: build
 	cmd.exe /C "gcloud auth login"
 	cmd.exe /C "gsutil rsync -d -r public gs://creations.kgol.xyz"
+
+.PHONY: strip-images
+strip-images:
+	fd .jpg . -x exiftool -all= {}
