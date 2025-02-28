@@ -7,7 +7,7 @@ tags:
     "hat",
     "crochet",
   ]
-spotlight: true
+spotlight: false
 heroImage: img/basket_weave_tam_1.jpg
 heroImageBackgroundColor: "#556B2F"
 galleryitems:
