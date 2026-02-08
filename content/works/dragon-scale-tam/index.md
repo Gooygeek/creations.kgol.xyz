@@ -7,6 +7,7 @@ tags:
     "hat",
     "crochet",
   ]
+sets: [dragon-scale]
 spotlight: false
 heroImage: img/dragon_scale_tam_1.jpg
 heroImageBackgroundColor: "#738678"
@@ -35,8 +36,5 @@ Thus it is important to use a scaffolding colour that will blend in or complemen
 
 Ultimately, I'm not super happy with this piece. I think the scales are too bunched up and it looks more like a flower than dragon scales.
 Also, it's a touch too large for my liking.
-I have some more ideas, but until I can solve the remaining issues I will not be releasing the pattern.
 
---
-
-I've since turned this into a whole collection. See [Dragon Scale Scarf](../dragon-scale-scarf) for more!
+It's a weird and difficult pattern. If you choose to try it out, good luck.
