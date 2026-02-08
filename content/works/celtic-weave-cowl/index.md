@@ -20,6 +20,7 @@ galleryitems:
   ]
 summary: A double thick cowl with a celtic weave along the length.
 storeurl: https://www.ravelry.com/patterns/library/celtic-weave-cowl-5
+downloadurl: pattern/Celtic Weave Cowl.pdf
 saletype: Pattern
 ---
 

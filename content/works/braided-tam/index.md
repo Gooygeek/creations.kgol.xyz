@@ -23,6 +23,7 @@ galleryitems:
   ]
 summary: A tam with 6 braids radiating from the center and a pom pom at the top.
 storeurl: https://www.ravelry.com/patterns/library/braided-tam---beret
+downloadurl: pattern/Braided Tam.pdf
 saletype: Pattern
 ---
 

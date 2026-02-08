@@ -17,6 +17,7 @@ galleryitems:
   ]
 summary: A tam or beret covered in dragon / crocodile scales.
 # storeurl: https://www.ravelry.com/patterns/library/XXX
+downloadurl: pattern/Dragon Scale Tam.pdf
 ---
 
 This is my most complicated piece yet; it's a tam covered in dragon scales!

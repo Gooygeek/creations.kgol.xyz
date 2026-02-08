@@ -19,6 +19,7 @@ galleryitems:
   ]
 summary: A tam with the appearance of being made of woven strands.
 storeurl: https://www.ravelry.com/patterns/library/basket-weave-tam
+downloadurl: pattern/Basket Weave Tam.pdf
 saletype: Pattern
 ---
 

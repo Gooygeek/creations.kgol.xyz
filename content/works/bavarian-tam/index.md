@@ -21,6 +21,7 @@ galleryitems:
   ]
 summary: A tam with a grid of squares across the top.
 storeurl: https://www.ravelry.com/patterns/library/bavarian-tam
+downloadurl: pattern/Bavarian Tam.pdf
 saletype: Pattern
 ---
 

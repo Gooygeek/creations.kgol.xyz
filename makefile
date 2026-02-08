@@ -5,6 +5,7 @@ init:
 
 .PHONY: dev
 dev:
+	rm -r public
 	hugo server --buildDrafts --buildFuture
 
 .PHONY: dev+search
