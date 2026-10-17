@@ -7,6 +7,7 @@ tags:
     "hat",
     "crochet",
   ]
+sets: ["rgb-moss"]
 spotlight: false
 heroImage: img/rgb-moss-gloves.jpg
 heroImageBackgroundColor: "#6bbaa3"

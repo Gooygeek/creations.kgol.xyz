@@ -7,7 +7,8 @@ tags:
     "hat",
     "crochet",
   ]
-spotlight: true
+sets: ["rgb-moss"]
+spotlight: false
 heroImage: img/rgb-moss-slouchy.jpg
 heroImageBackgroundColor: "#366085"
 galleryitems:
