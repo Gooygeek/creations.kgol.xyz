@@ -8,7 +8,7 @@ tags:
     "scarf",
     "crochet",
   ]
-spotlight: true
+spotlight: false
 heroImage: img/celtic_weave_cowl_1.jpg
 heroImageBackgroundColor: "#2e2d47"
 galleryitems:
