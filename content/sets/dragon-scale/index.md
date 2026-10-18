@@ -12,7 +12,8 @@ tags:
 sets: ["dragon-scale"]
 spotlight: false
 heroImage: img/dragon_scale_collection_1.jpg
-heroImageBackgroundColor: "#738678"
+# heroImageBackgroundColor: "#738678"
+heroImageBackgroundColor: "linear-gradient(135deg,rgba(80, 80, 80, 1) 0%, rgba(175, 175, 175, 1) 16%, rgba(80, 80, 80, 1) 34%, rgba(97, 97, 97, 1) 50%, rgba(80, 80, 80, 1) 66%, rgba(175, 175, 175, 1) 84%, rgba(80, 80, 80, 1) 100%)"
 galleryitems:
   [
     "img/dragon_scale_collection_1.jpg",
